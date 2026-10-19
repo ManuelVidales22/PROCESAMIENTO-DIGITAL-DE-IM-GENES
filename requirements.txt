@@ -1,0 +1,9 @@
+# Librerías usadas en ProyectoDicom.ipynb
+pydicom
+numpy
+matplotlib
+scipy
+
+# Para ejecutar el notebook localmente (Jupyter / VS Code)
+notebook
+ipykernel
