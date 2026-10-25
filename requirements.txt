@@ -3,6 +3,7 @@ pydicom
 numpy
 matplotlib
 scipy
+nibabel
 
 # Para ejecutar el notebook localmente (Jupyter / VS Code)
 notebook
