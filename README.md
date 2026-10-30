@@ -1,5 +1,14 @@
 # Procesamiento de Imágenes Médicas (DICOM)
 
+## Integrantes
+
+| Nombre | Código |
+|---|---|
+| Alejandro Marin Hoyos | 2259353 |
+| Cristhian Leonardo Albarracin Zapata | 1968253 |
+| Yessica Fernanda Villa Nuñez | 2266301 |
+| Manuel Antonio Vidales Duran | 2155481 |
+
 Proyecto de análisis de imágenes médicas en formato DICOM (tomografía de cráneo y resonancia magnética). El notebook [ProyectoDicom.ipynb](ProyectoDicom.ipynb) incluye:
 
 - Lectura de archivos DICOM y extracción de metadatos (`pydicom`).
